@@ -70,11 +70,13 @@ section h2 {
 	
 }
 
-section img {
-	margin: 1em .5em 1em .5em;
-	width: 750px;
-	height: auto;
-}
+section img
+    {
+    text-align:center;
+    margin-top:0px;
+    margin-bottom:0px;
+    padding:0px;
+    }
 
 /* the styles for the footer */
 footer {
